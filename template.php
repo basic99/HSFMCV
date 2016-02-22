@@ -3,7 +3,7 @@
 <head>
 
 <!-- update title and meta tags for each new page here -->
-<title>Huguenot Society FMCV - Home</title>
+<title>Huguenot Society FMCV</title>
 <meta name="description" content="Home page of the Huguenot Society of the Founders of Manakin in the Colony of Virginia" />
 
 <?php
@@ -35,6 +35,13 @@ include_once "../site/nav.php";
 <section>
 <!-- start add content here -->
 
+<!--
+<figure>
+<img src="Pictures/gate.jpg" alt="Entrance to Manakin property and old church" />
+<figcaption>Entrance and Old Church
+</figcaption>
+</figure>
+-->
 
 <!-- end of added content here -->
 </section>
